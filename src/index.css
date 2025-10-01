@@ -27,7 +27,6 @@ body {
   overflow-x: hidden;
   margin: 0;
   display: grid;
-  width: 100%;
   place-items: center;
   min-height: 100vh;
   font-family: 'Courier New', Courier, monospace;
