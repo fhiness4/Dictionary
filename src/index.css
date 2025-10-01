@@ -24,7 +24,8 @@ a:hover {
 }
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
+  width: 100%;
   margin: 0;
   display: grid;
   place-items: center;
@@ -44,7 +45,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #7d3e0fd2;
+  background-color: red;
   cursor: pointer;
   transition: border-color 0.25s;
 }
