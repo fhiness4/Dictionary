@@ -24,7 +24,7 @@ a:hover {
 }
 
 body {
-  overflow-x: hidden;
+  overflow: hidden;
   margin: 0;
   display: grid;
   place-items: center;
